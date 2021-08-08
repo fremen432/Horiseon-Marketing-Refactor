@@ -79,7 +79,7 @@ p {
     }
 /* hero section */
 
-.benefits {
+.benefits-content {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -119,6 +119,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
 
 .benefit-lead img {
     display: block;
@@ -192,6 +193,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer */
 footer {
     padding: 30px;
     clear: both;
