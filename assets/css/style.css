@@ -88,7 +88,7 @@ content {
     background-color: #2589bd;
 }
 
-article {
+.benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -125,7 +125,7 @@ content h2 {
 }
 /* End content */
 
-/* Footer */
+/* Start footer */
 footer {
     padding: 30px;
     clear: both;
@@ -136,3 +136,4 @@ footer {
 footer h4 {
     font-size: 20px;
 }
+/* End footer */
