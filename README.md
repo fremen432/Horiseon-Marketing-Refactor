@@ -8,6 +8,10 @@
 * Changed heading in footer from h2 to h4.
 * Added article and section elements in benefits section. Consolidated CSS for images in benefits section.
   
+## Technologies Used
+* HTML  
+* CSS
+  
 ## Prouction Webpage Screenshot:
 ![final screenshot](https://user-images.githubusercontent.com/87861603/128979208-1e3b0b19-5fce-4524-99df-7c0c0f3d205d.png)
 
